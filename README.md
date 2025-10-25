@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there👋
 
-<!--
-**Joseph1864/joseph1864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Joseph Williams, a versatile Android developer with a proven track record of building modern, performant apps using **Jetpack Compose**, **Kotlin Coroutines**, and **MVVM architecture**. I’ve published multiple apps to the **Google Play Store** and also work professionally as a **Business Tools Developer** creating full-stack solutions to improve business efficiency.
 
-Here are some ideas to get you started:
+### 📱 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [OpenBeta (Android)](https://play.google.com/store/apps/details?id=io.openbeta)
+A rock climbing route explorer app built for the open-source [OpenBeta](https://openbeta.io/) **GraphQL API**. 
+- Some tech: **Compose**, **Coroutines**, **Apollo**, and **Room**.
+- **MVVM** architecture.
+
+#### [History on Demand](https://github.com/Joseph1864/History-On-Demand)
+An educational trivia app that fetches historical events related to user-entered keywords.  
+- Some tech: **Compose**, **Coroutines**, **Retrofit**, **Room**, and **Paging 3**.  
+- **MVVM** architecture.
+
+### 🎓 Education
+
+**Franciscan University of Steubenville**  
+Bachelor of Science in Mathematics — *2023*  
+
+### 🌐 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/joseph-williams-911735283/) <br>
+[Josephwilliamsm99@gmail.com](mailto:Josephwilliamsm99@gmail.com)

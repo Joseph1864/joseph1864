@@ -1,6 +1,6 @@
 # Hi there👋
 
-I’m Joseph Williams, a versatile Android developer with a proven track record of building modern, performant apps using **Jetpack Compose**, **Kotlin Coroutines**, and **MVVM architecture**. I’ve published multiple apps to the **Google Play Store** and also work professionally as a **Business Tools Developer** creating full-stack solutions to improve business efficiency.
+I’m Joseph Williams, a versatile Android developer with a proven track record of building modern, clean apps using **Jetpack Compose**, **Kotlin Coroutines**, and **MVVM architecture**. I’ve published multiple apps to the **Google Play Store** and also work professionally as a **Business Tools Developer** creating full-stack solutions to improve business efficiency.
 
 ### 📱 Featured Projects
 

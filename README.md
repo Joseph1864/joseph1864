@@ -26,4 +26,6 @@ Bachelor of Science in Mathematics — *2023*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-williams-911735283/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Josephwilliamsm99@gmail.com) 
 
+---
+### Snake eating my contribution graph:
 ![Snake animation](https://github.com/Joseph1864/Joseph1864/blob/output/snake.svg)
